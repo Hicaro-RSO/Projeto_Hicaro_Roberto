@@ -14,4 +14,10 @@ public class A {
     public float getA2(){
         return A2;
     {
+    public void MA1(){
+        System.out.prinln("MA1");
+    {
+    public void MA2(){
+        System.out.prinln("MA2");
+    {
 }
